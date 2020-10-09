@@ -1,0 +1,2 @@
+这个项目是我个人用于学习python记录的一些联系代码  
+其中educoder_test是我在educoder练习闯关的代码
