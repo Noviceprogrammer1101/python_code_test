@@ -19,11 +19,15 @@ def cmin(value, unit):
         print('请输入有效的单位')
         # **************end*************#
 
-
+# 这是cmin的此时函数，运行它可以得出结果
+"""
 value = input()
 value = int(value)
 unit = input()
 cmin(value, unit)
+
+"""
+
 
 
 def invert(score):
@@ -46,9 +50,13 @@ def invert(score):
         print('E')
         # **************end*************#
 
-
+# 这是invert的测试函数
+"""
 score = float(input())
 grad = invert(score)
+
+"""
+
 # print(grad)
 
 
@@ -58,23 +66,26 @@ grad = invert(score)
 有个人想了个办法就是大家围成一个圈，由某个人开始从1报数，
 报到9的人就扔到海里面，他后面的人接着从1开始报数，
 报到9的人继续扔到海里面，直到扔掉15个人。由于上帝的保佑，
-15个基督徒都幸免于难，问这些人最开始是怎么站的，哪些位置是基督徒哪些位置是非基督徒。
+15个基督徒都幸免于难，问这些人最开
+始是怎么站的，哪些位置是基督徒哪些位置是非基督徒。
 '''
 
 def main():
     #        请在此处添加代码       #
     # *************begin************#
+    #person中存储30个true
     persons = [True] * 30
     counter, index, number = 0, 0, 0
     while counter < 15:
         if persons[index]:
             number += 1
-            if number == 9:
+            if number == 9:  #报到9数字的人就是false,淘汰掉
                 persons[index] = False
-                counter += 1
-                number = 0
-        index += 1
-        index %= 30
+                counter += 1   #记录淘汰的人数
+                number = 0   #重新再报数
+        index += 1 #向前一人
+        index %= 30  #一直在30当中运行
+    # 输出30个人的状态，可以看那些人在，那些人不在了
     for person in persons:
         print('1' if person else '0', end='')
     # **************end*************#
