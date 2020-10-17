@@ -71,3 +71,6 @@ pop(i),将下标为i的元素删除
 ###
 ###其他
 dir()函数可以查看对象内所有的属性和方法
+
+### 300_cases_of_python_programming
+这个文件夹存放的是python的三百个例子
