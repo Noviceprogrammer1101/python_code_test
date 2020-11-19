@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15c09e9d-5fbd-46c4-97a6-2ae44b879d04" name="默认" comment="update README.md of educoder_tesst">
+    <list default="true" id="15c09e9d-5fbd-46c4-97a6-2ae44b879d04" name="默认" comment="update comment of 定制类">
+      <change afterPath="$PROJECT_DIR$/算法实例精讲/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法实例精讲/singlelink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法实例精讲/算法实例精讲.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educoder_tesst/定制类.py" beforeDir="false" afterPath="$PROJECT_DIR$/educoder_tesst/定制类.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,7 +370,7 @@
       <workItem from="1605482036583" duration="1335000" />
       <workItem from="1605567619291" duration="1231000" />
       <workItem from="1605696385840" duration="1073000" />
-      <workItem from="1605791102931" duration="2495000" />
+      <workItem from="1605791102931" duration="5363000" />
     </task>
     <task id="LOCAL-00001" summary="Add a python folder about the exercises I did in Educoder">
       <created>1601898446355</created>
@@ -524,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605697388994</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update comment of 定制类">
+      <created>1605794445102</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605794445102</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,9 +566,14 @@
     <MESSAGE value="update three_hundred.md" />
     <MESSAGE value="update README.md of educoder_tesst folder" />
     <MESSAGE value="update README.md of educoder_tesst" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md of educoder_tesst" />
+    <MESSAGE value="update comment of 定制类" />
+    <option name="LAST_COMMIT_MESSAGE" value="update comment of 定制类" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="510" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605797711877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605797711877" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605482268062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -584,10 +598,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605567843753" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605697428105">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605794462165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605697428105" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605794462165" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_code_test$.coverage" NAME="定制类 Coverage Results" MODIFIED="1605792593240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/educoder_tesst" />
