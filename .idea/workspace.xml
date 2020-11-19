@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15c09e9d-5fbd-46c4-97a6-2ae44b879d04" name="默认" comment="update README.md of educoder_tesst">
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/定制类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/定制类2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/继承1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/继承2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/继承3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educoder_tesst/定制类.py" beforeDir="false" afterPath="$PROJECT_DIR$/educoder_tesst/定制类.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/README.md" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.继承3">
+  <component name="RunManager" selected="Python.定制类">
     <configuration default="true" type="tests" factoryName="不至于">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,28 +119,6 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="继承1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_code_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/educoder_tesst" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/educoder_tesst/继承1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="定制类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +133,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/educoder_tesst/定制类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="继承1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_code_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/educoder_tesst" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/educoder_tesst/继承1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,11 +338,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.定制类" />
         <item itemvalue="Python.继承3" />
-        <item itemvalue="Python.继承2" />
         <item itemvalue="Python.继承1" />
         <item itemvalue="Python.定制类2" />
-        <item itemvalue="Python.定制类" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +367,8 @@
       <workItem from="1605440984363" duration="144000" />
       <workItem from="1605482036583" duration="1335000" />
       <workItem from="1605567619291" duration="1231000" />
-      <workItem from="1605696385840" duration="966000" />
+      <workItem from="1605696385840" duration="1073000" />
+      <workItem from="1605791102931" duration="2495000" />
     </task>
     <task id="LOCAL-00001" summary="Add a python folder about the exercises I did in Educoder">
       <created>1601898446355</created>
@@ -522,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605482753094</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update README.md of educoder_tesst">
+      <created>1605697388994</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605697388994</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,33 +564,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605482268062" />
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1605696972027">
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1605792593268">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605696972027" />
-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1605696972027">
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605792593268" />
+    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1605792593268">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605696972027" />
-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1605696972027">
+    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605792593268" />
+    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1605792593267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605696972027" />
-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1605696972027">
+    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605792593267" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1605792593268">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605696972027" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605792593268" />
     <state x="270" y="57" key="SettingsEditor" timestamp="1605567843753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605567843753" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605482927900">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605697428105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605482927900" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605697428105" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_code_test$.coverage" NAME="定制类 Coverage Results" MODIFIED="1605696788639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/educoder_tesst" />
+    <SUITE FILE_PATH="coverage/python_code_test$.coverage" NAME="定制类 Coverage Results" MODIFIED="1605792593240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/educoder_tesst" />
     <SUITE FILE_PATH="coverage/python_code_test$1.coverage" NAME="继承1 Coverage Results" MODIFIED="1605696900703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/educoder_tesst" />
     <SUITE FILE_PATH="coverage/python_code_test$3.coverage" NAME="继承3 Coverage Results" MODIFIED="1605696972014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/educoder_tesst" />
     <SUITE FILE_PATH="coverage/python_code_test$2.coverage" NAME="继承2 Coverage Results" MODIFIED="1605696942895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/educoder_tesst" />

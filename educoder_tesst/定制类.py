@@ -1,17 +1,23 @@
 class Fraction:
     def __init__(self, numerator=0, denominator=1):
+        # 分母为0
         if denominator == 0:
             raise ZeroDivisionError("denominator cannot be zero")
+        # 分子为零
         if numerator == 0:
             self._numerator = 0
             self._denomoinator = 1
+        # 分子不为零的情况
         else:
+            # 判断正负
             if (numerator < 0 and denominator > 0) or (numerator > 0 and denominator < 0):
                 flag = -1
             else:
                 flag = 1
+            # 获取绝对值
             a = abs(numerator)
             b = abs(denominator)
+            # 如果
             while a % b != 0:
                 tempA = a
                 tempB = b
