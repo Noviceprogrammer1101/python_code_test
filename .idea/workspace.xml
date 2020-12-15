@@ -19,46 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15c09e9d-5fbd-46c4-97a6-2ae44b879d04" name="默认" comment="add new package that 算法实例精讲">
-      <change afterPath="$PROJECT_DIR$/2019_nCoV 可视化2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQLITE_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQLITE_test/example.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQLITE_test/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/使用线程和condition对象，模拟生产者消费者.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/多进程1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/数据库.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/文件读写和异常处理/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/文件读写和异常处理/读取文件内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/随堂测试进程1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educoder_tesst/随堂测试进程2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最优化算法/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最优化算法/wolfe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最优化算法/二次插值法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最优化算法/共轭梯度法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最优化算法/最速下降法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/beatiful_soup库安装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/bs4过滤器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/ip归属地的自动查询.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/scenery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/中国实时数据.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/中国总计数据.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/中国确诊疫情分布图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/亚马逊爬取联系.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/信息组织与提取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/全球疫情确诊TOP10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/基于bs4的html内容遍历方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/本年度全国疫情数据分析图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/百度360搜索关键词提交.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/网络图片的爬取和存储.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫学习/近一个月全国确诊人数及疑似人数变化趋势图.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_code_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_code_test.iml" afterDir="false" />
+    <list default="true" id="15c09e9d-5fbd-46c4-97a6-2ae44b879d04" name="默认" comment="更新educoder_tesst">
+      <change afterPath="$PROJECT_DIR$/educoder_tesst/杨辉三角形.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educoder_tesst/educoder.md" beforeDir="false" afterPath="$PROJECT_DIR$/educoder_tesst/educoder.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -530,7 +493,7 @@
       <workItem from="1607683761133" duration="4702000" />
       <workItem from="1607689036854" duration="13781000" />
       <workItem from="1607931132960" duration="9595000" />
-      <workItem from="1608046428022" duration="319000" />
+      <workItem from="1608046428022" duration="1537000" />
     </task>
     <task id="LOCAL-00001" summary="Add a python folder about the exercises I did in Educoder">
       <created>1601898446355</created>
@@ -700,7 +663,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605799337097</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="更新educoder_tesst">
+      <created>1608046855249</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608046855249</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -736,7 +706,8 @@
     <MESSAGE value="update README.md of educoder_tesst" />
     <MESSAGE value="update comment of 定制类" />
     <MESSAGE value="add new package that 算法实例精讲" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new package that 算法实例精讲" />
+    <MESSAGE value="更新educoder_tesst" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新educoder_tesst" />
   </component>
   <component name="WindowStateProjectService">
     <state x="510" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605797711877">
@@ -747,22 +718,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606145630158" />
-    <state width="723" height="268" key="GridCell.Tab.0.bottom" timestamp="1607957416632">
+    <state width="726" height="265" key="GridCell.Tab.0.bottom" timestamp="1608046863430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607957416632" />
-    <state width="723" height="268" key="GridCell.Tab.0.center" timestamp="1607957416632">
+    <state width="726" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608046863430" />
+    <state width="726" height="265" key="GridCell.Tab.0.center" timestamp="1608046863430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607957416632" />
-    <state width="723" height="268" key="GridCell.Tab.0.left" timestamp="1607957416631">
+    <state width="726" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608046863430" />
+    <state width="726" height="265" key="GridCell.Tab.0.left" timestamp="1608046863430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607957416631" />
-    <state width="723" height="268" key="GridCell.Tab.0.right" timestamp="1607957416632">
+    <state width="726" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608046863430" />
+    <state width="726" height="265" key="GridCell.Tab.0.right" timestamp="1608046863430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607957416632" />
+    <state width="726" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608046863430" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1607685290356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
